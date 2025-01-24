@@ -32,7 +32,7 @@ gem "tzinfo-data", platforms: %i[ windows jruby ]
 gem "bootsnap", require: false
 
 # youtube_api
-gem 'google-apis-youtube_v3', '~> 0.53.0'
+gem "google-apis-youtube_v3", "~> 0.53.0"
 
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
 # gem "image_processing", "~> 1.2"
